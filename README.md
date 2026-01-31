@@ -43,15 +43,15 @@ The analysis was conducted using a custom pipeline integrating **Bash** and **R*
 
 ## 📂 Repository Structure
 ## 📜 Acknowledgments
-* [cite_start]**Institution:** Department of Biological Sciences, University of Veterinary and Animal Sciences (UVAS), Lahore[cite: 3].
-* [cite_start]**Germplasm Resources:** We thank the **Wheat Genetics Resource Center (WGRC)** and **CIMMYT** for providing the reference accessions (TA2462 and TA2461) used in this comparative study[cite: 138].
-* [cite_start]**Conflict of Interest:** The research was conducted in the absence of any commercial or financial relationships[cite: 136].
+* **Institution:** Department of Biological Sciences, University of Veterinary and Animal Sciences (UVAS), Lahore.
+* **Germplasm Resources:** We thank the **Wheat Genetics Resource Center (WGRC)** and **CIMMYT** for providing the reference accessions (TA2462 and TA2461) used in this comparative study.
+* **Conflict of Interest:** The research was conducted in the absence of any commercial or financial relationships.
 
 ## 📚 References
 Key literature supporting this analysis:
-* **Matsuoka et al. (2013)[cite_start]:** Wheat evolution and domestication[cite: 161].
-* [cite_start]**Trethowan & Mujeeb-Kazi (2008):** Novel germplasm resources for stress tolerance[cite: 168].
-* **Wang et al. (2013)[cite_start]:** *Aegilops tauschii* SNP diversity and D-genome origins[cite: 170].
+* **Matsuoka et al. (2013):** Wheat evolution and domestication.
+* **Trethowan & Mujeeb-Kazi (2008):** Novel germplasm resources for stress tolerance.
+* **Wang et al. (2013):** *Aegilops tauschii* SNP diversity and D-genome origins.
 
 ---
 ### 📬 Contact
