@@ -22,13 +22,13 @@ High-resolution plots generated via R are available in the `plots/` directory:
 * **[Phylogenetic_Tree_NJ.pdf](plots/Phylogenetic_Tree_NJ.pdf):** Neighbor-Joining tree confirming the Indus population as a discrete evolutionary clade, distinct from the Caspian reference TA2462.
 
 ### Evolutionary History & Geography
-* **[Isolation_By_Distance_plot.pdf](plots/Isolation_By_Distance_Plot.pdf):** Mantel test results showing a significant positive correlation ($P < 0.001$) between genetic differentiation and geographic distance.
+* **[Isolation_By_Distance_plot.pdf](plots/Isolation_By_Distance_plot.pdf):** Mantel test results showing a significant positive correlation ($P < 0.001$) between genetic differentiation and geographic distance.
 * **[Private_Alleles_Discovery.pdf](plots/Private_Alleles_Discovery.pdf):** Quantification of unique adaptive alleles found exclusively in the Indus population.
 
 ### Advanced Genomic Metrics
 * **[Runs_of_Homozygosity.pdf](plots/Runs_of_Homozygosity.pdf):** Analysis of ROH density to estimate historical inbreeding levels.
 * **[Site_Frequency_Spectrum.pdf](plots/Site_Frequency_Spectrum.pdf):** SFS analysis used to infer demographic history and population expansion.
-* **[Genomic_Diversity_Landscape_Plot.pdf](plots/Genomic_Diversity_Landscape.pdf):** Overview of nucleotide diversity (π) across the genome.
+* **[Genomic_Diversity_Plot.pdf](plots/Genomic_Diversity_Plot.pdf):** Overview of nucleotide diversity (π) across the genome.
 
 ## 🛠️ Computational Workflow
 The analysis was conducted using a custom pipeline integrating **Bash** and **R**:
@@ -43,15 +43,15 @@ The analysis was conducted using a custom pipeline integrating **Bash** and **R*
 
 ## 📂 Repository Structure
 ## 📜 Acknowledgments
-* **Institution:** Department of Biological Sciences, University of Veterinary and Animal Sciences (UVAS), Lahore.
-* **Germplasm Resources:** We thank the **Wheat Genetics Resource Center (WGRC)** and **CIMMYT** for providing the reference accessions (TA2462 and TA2461) used in this comparative study.
-* **Conflict of Interest:** The research was conducted in the absence of any commercial or financial relationships.
+* [cite_start]**Institution:** Department of Biological Sciences, University of Veterinary and Animal Sciences (UVAS), Lahore[cite: 3].
+* [cite_start]**Germplasm Resources:** We thank the **Wheat Genetics Resource Center (WGRC)** and **CIMMYT** for providing the reference accessions (TA2462 and TA2461) used in this comparative study[cite: 138].
+* [cite_start]**Conflict of Interest:** The research was conducted in the absence of any commercial or financial relationships[cite: 136].
 
 ## 📚 References
 Key literature supporting this analysis:
-* **Matsuoka et al. (2013):** Wheat evolution and domestication.
-* **Trethowan & Mujeeb-Kazi (2008):** Novel germplasm resources for stress tolerance.
-* **Wang et al. (2013):** *Aegilops tauschii* SNP diversity and D-genome origins.
+* **Matsuoka et al. (2013)[cite_start]:** Wheat evolution and domestication[cite: 161].
+* [cite_start]**Trethowan & Mujeeb-Kazi (2008):** Novel germplasm resources for stress tolerance[cite: 168].
+* **Wang et al. (2013)[cite_start]:** *Aegilops tauschii* SNP diversity and D-genome origins[cite: 170].
 
 ---
 ### 📬 Contact
