@@ -56,6 +56,13 @@ Key literature supporting this analysis:
 * **Matsuoka et al. (2013):** Wheat evolution and domestication.
 * **Trethowan & Mujeeb-Kazi (2008):** Novel germplasm resources for stress tolerance.
 * **Wang et al. (2013):** *Aegilops tauschii* SNP diversity and D-genome origins.
+## ⚠️ License & Usage Policy
+**Status:** This repository accompanies a manuscript currently **under review/in preparation**.
+
+* **Code (Scripts):** The analysis scripts (`.R` files) are available for educational and review purposes.
+* **Data & Visualizations:** The genetic data figures (`plots/`) and intermediate datasets are **proprietary** and part of the unpublished study. They may **not** be used, reproduced, or distributed without explicit written permission from the authors until the associated paper is published.
+
+**Citation:** If you wish to reference this work/code in the interim, please contact the author directly.
 
 ---
 ### 📬 Contact
