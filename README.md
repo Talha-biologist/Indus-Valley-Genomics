@@ -1,3 +1,7 @@
+![R](https://img.shields.io/badge/Language-R-blue?style=for-the-badge&logo=r)
+![Bioinformatics](https://img.shields.io/badge/Domain-Bioinformatics-success?style=for-the-badge&logo=dna)
+![Status](https://img.shields.io/badge/Status-Completed-orange?style=for-the-badge)
+![UVAS](https://img.shields.io/badge/Univ-UVAS-green?style=for-the-badge)
 # Genomic Distinctness of Indigenous *Aegilops tauschii* from the Indus Valley
 
 > **Researcher:** Talha (BS Biological Sciences, UVAS)  
