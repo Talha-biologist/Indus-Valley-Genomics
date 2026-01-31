@@ -22,13 +22,13 @@ High-resolution plots generated via R are available in the `plots/` directory:
 * **[Phylogenetic_Tree_NJ.pdf](plots/Phylogenetic_Tree_NJ.pdf):** Neighbor-Joining tree confirming the Indus population as a discrete evolutionary clade, distinct from the Caspian reference TA2462.
 
 ### Evolutionary History & Geography
-* **[Isolation_By_Distance_Plot.pdf](plots/Isolation_By_Distance_Plot.pdf):** Mantel test results showing a significant positive correlation ($P < 0.001$) between genetic differentiation and geographic distance.
+* **[Isolation_By_Distance_plot.pdf](plots/Isolation_By_Distance_Plot.pdf):** Mantel test results showing a significant positive correlation ($P < 0.001$) between genetic differentiation and geographic distance.
 * **[Private_Alleles_Discovery.pdf](plots/Private_Alleles_Discovery.pdf):** Quantification of unique adaptive alleles found exclusively in the Indus population.
 
 ### Advanced Genomic Metrics
 * **[Runs_of_Homozygosity.pdf](plots/Runs_of_Homozygosity.pdf):** Analysis of ROH density to estimate historical inbreeding levels.
 * **[Site_Frequency_Spectrum.pdf](plots/Site_Frequency_Spectrum.pdf):** SFS analysis used to infer demographic history and population expansion.
-* **[Genomic_Diversity_Landscape.pdf](plots/Genomic_Diversity_Landscape.pdf):** Overview of nucleotide diversity (π) across the genome.
+* **[Genomic_Diversity_Landscape_Plot.pdf](plots/Genomic_Diversity_Landscape.pdf):** Overview of nucleotide diversity (π) across the genome.
 
 ## 🛠️ Computational Workflow
 The analysis was conducted using a custom pipeline integrating **Bash** and **R**:
